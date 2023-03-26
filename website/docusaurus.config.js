@@ -13,7 +13,7 @@ const config = {
   url: "https://olivedapp.github.io",
   baseUrl: "/",
   organizationName: "olivedapp",
-  projectName: "olived",
+  projectName: "olivedapp.github.io",
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
