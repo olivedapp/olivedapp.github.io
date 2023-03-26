@@ -6,24 +6,62 @@ import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
 import { translate } from "@docusaurus/Translate"; // i18n component
+import useBaseUrl from "@docusaurus/useBaseUrl";
+
+var Carousel = require("react-responsive-carousel").Carousel;
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
-          >
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
+    <div>
+      <header className={clsx("hero", styles.heroBanner)}>
+        <div className="container">
+          <div className="col">
+            <Carousel
+              showArrows={false}
+              width={"100%"}
+              showThumbs={false}
+              stopOnHover={false}
+              showStatus={false}
+              autoPlay={true}
+              showIndicators={false}
+              infiniteLoop={true}
+              interval={4000}
+              transitionTime={1000}
+              centerMode={true}
+            >
+              <div className="slide-item-box">
+                <img src={useBaseUrl("/img/showcase/task.png")} />
+              </div>
+            </Carousel>
+          </div>
+          <div className="col">
+            <p className="hero__subtitle">
+              {translate({ id: "homepage.Tagline" })}
+            </p>
+            <div className={styles.buttons}>
+              <Link
+                className="button button--primary button--lg"
+                to="/installation"
+              >
+                {translate({ id: "homepage.ButtonText" })}
+              </Link>
+            </div>
+          </div>
         </div>
-      </div>
-    </header>
+      </header>
+      <blockquote>
+        <h3>
+          Olived
+          省去了传统录播程序繁琐的安装步骤，并设计了符合人体工程学的交互逻辑，每个录播者都应该试试它！
+        </h3>
+        <h4>
+          &mdash;&nbsp; 麦克阿瑟
+          <br />
+          <em>美国陆军五星上将</em>
+        </h4>
+      </blockquote>
+    </div>
   );
 }
 
