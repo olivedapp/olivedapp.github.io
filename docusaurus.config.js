@@ -19,12 +19,16 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "zh-Hans",
+    locales: ["zh-Hans"],
+    localeConfigs: {
+      "zh-Hans": {
+        label: `简体中文`,
+        direction: "ltr",
+        htmlLang: "zh-Hans",
+      },
+    },
   },
 
   presets: [
@@ -81,13 +85,25 @@ const config = {
       },
       footer: {
         style: "dark",
+        logo: {
+          alt: "Wails Logo",
+          src: "img/appicon.png",
+          srcDark: "img/appicon.png",
+          href: "https://olived.app",
+          width: 50,
+          height: 50,
+        },
         links: [
           {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Usage",
+                to: "/usage",
+              },
+              {
+                label: "Changelog",
+                to: "/changelog",
               },
             ],
           },
@@ -95,16 +111,16 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Github",
+                href: "https://github.com/olivedapp/olived-cn/issues",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Telegram",
+                href: "https://t.me/olivedapp",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "QQ",
+                href: "https://qm.qq.com/cgi-bin/qm/qr?k=c6CTyYkB-p-o8ZoT5ldcjuFAVnyu5vEL&jump_from=webapi",
               },
             ],
           },
@@ -112,17 +128,22 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Disclaimer",
+                to: "/disclaimer",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "Privacy",
+                to: "/privacy",
               },
             ],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      },
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
       },
       prism: {
         theme: lightCodeTheme,

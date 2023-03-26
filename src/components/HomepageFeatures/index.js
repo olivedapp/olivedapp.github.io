@@ -1,49 +1,57 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import React from "react";
+import clsx from "clsx";
+import styles from "./styles.module.css";
+
+import ThemedImage from "@theme/ThemedImage";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import { translate } from "@docusaurus/Translate"; // i18n component
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
+    title: translate({ id: "homepage.Features.Title1" }),
+    lightImage: "/img/desktop-application-app-dark.svg",
+    darkImage: "/img/desktop-application-app.svg",
+    description: translate({ id: "homepage.Features.Description1" }),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    title: translate({ id: "homepage.Features.Title2" }),
+    lightImage: "/img/go_js.svg",
+    darkImage: "/img/go_js_dark.svg",
+    description: translate({ id: "homepage.Features.Description2" }),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    title: translate({ id: "homepage.Features.Title3" }),
+    lightImage: "/img/Terminal-icon.svg",
+    darkImage: "/img/Terminal-icon-dark.svg",
+    description: translate({ id: "homepage.Features.Description3" }),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ lightImage, darkImage, title, description }) {
+  const imageStyle = {
+    width: "25%",
+    margin: "auto",
+    minHeight: "100px",
+  };
+  const textStyle = {
+    "white-space": "pre-wrap",
+  };
+
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <ThemedImage
+          style={imageStyle}
+          alt="Docusaurus themed image"
+          sources={{
+            light: useBaseUrl(lightImage),
+            dark: useBaseUrl(darkImage),
+          }}
+        />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
-        <p>{description}</p>
+        <p style={textStyle}>{description}</p>
       </div>
     </div>
   );

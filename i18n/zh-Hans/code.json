@@ -1,0 +1,23 @@
+{
+    "homepage.Features.Title1": {
+      "message": "私人订制"
+    },
+    "homepage.Features.Description1": {
+      "message": "提供众多定制化选项\n想你所想，及你所及"
+    },
+    "homepage.Features.Title2": {
+      "message": "技术先进"
+    },
+    "homepage.Features.Description2": {
+      "message": "容器化部署，跨平台开发\n优雅地界面操作，出色的并发性能，极低的内存占用"
+    },
+    "homepage.Features.Title3": {
+      "message": "方便快捷"
+    },
+    "homepage.Features.Description3": {
+      "message": "一条命令，须臾之间，录制开始\n从此不再错过任何直播"
+    },
+    "homepage.Tagline": {
+        "message": "一款摩登的直播录像机"
+    }
+}
