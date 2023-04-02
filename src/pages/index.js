@@ -56,9 +56,9 @@ function HomepageHeader() {
           省去了传统录播程序繁琐的安装步骤，并设计了符合人体工程学的交互逻辑，每个录播者都应该试试它！
         </h3>
         <h4>
-          &mdash;&nbsp; 麦克阿瑟
+          &mdash;&nbsp; luxcgo
           <br />
-          <em>美国陆军五星上将</em>
+          <em>Oived CTO</em>
         </h4>
       </blockquote>
     </div>
