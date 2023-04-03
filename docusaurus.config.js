@@ -73,6 +73,14 @@ const config = {
         },
         items: [
           {
+            label: "Usage",
+            to: "/usage",
+          },
+          {
+            label: "Next",
+            to: "/next",
+          },
+          {
             to: "https://afdian.net/@luxcgo",
             label: "Sponsor",
             position: "left",

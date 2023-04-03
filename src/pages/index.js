@@ -58,7 +58,7 @@ function HomepageHeader() {
         <h4>
           &mdash;&nbsp; luxcgo
           <br />
-          <em>Oived CTO</em>
+          <em>Olived CTO</em>
         </h4>
       </blockquote>
     </div>
