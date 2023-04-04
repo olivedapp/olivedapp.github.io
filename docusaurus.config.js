@@ -174,6 +174,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: "HQRE2ZIAAS",
+        apiKey: "269248ac6a85483f6e675c8ddf3bfd09",
+        indexName: "olived",
+        contextualSearch: true,
+      },
     }),
 };
 
