@@ -122,6 +122,10 @@ const config = {
                 label: "Changelog",
                 to: "/changelog",
               },
+              {
+                label: "About",
+                to: "/about",
+              },
             ],
           },
           {
@@ -151,6 +155,10 @@ const config = {
               {
                 label: "Privacy",
                 to: "/privacy",
+              },
+              {
+                label: "License",
+                to: "/license",
               },
             ],
           },

@@ -23,6 +23,14 @@
     "message": "更新日志",
     "description": "The label of footer link with label=Changelog linking to /changelog"
   },
+  "link.item.label.About": {
+    "message": "关于我们",
+    "description": "The label of footer link with label=About linking to /about"
+  },
+  "link.item.label.License": {
+    "message": "开源许可",
+    "description": "The label of footer link with label=License linking to /license"
+  },
   "link.item.label.Github": {
     "message": "Github",
     "description": "The label of footer link with label=Github linking to https://github.com/wailsapp/wails"
