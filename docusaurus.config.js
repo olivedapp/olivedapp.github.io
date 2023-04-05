@@ -103,7 +103,7 @@ const config = {
       footer: {
         style: "dark",
         logo: {
-          alt: "Wails Logo",
+          alt: "Olived Logo",
           src: "img/appicon.png",
           srcDark: "img/appicon.png",
           href: "https://olived.app",
@@ -149,8 +149,8 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Disclaimer",
-                to: "/disclaimer",
+                label: "Eula",
+                to: "/eula",
               },
               {
                 label: "Privacy",
@@ -163,7 +163,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}  Olived`,
       },
       colorMode: {
         defaultMode: "light",

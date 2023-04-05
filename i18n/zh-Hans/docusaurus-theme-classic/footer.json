@@ -51,10 +51,6 @@
     "message": "博客",
     "description": "The label of footer link with label=Blog linking to /blog"
   },
-  "copyright": {
-    "message": "Copyright © 2023 Olived",
-    "description": "The footer copyright"
-  },
   "link.item.label.Awesome": {
     "message": "Awesome",
     "description": "The label of footer link with label=Awesome linking to https://github.com/wailsapp/awesome-wails"
@@ -67,9 +63,9 @@
     "message": "使用指南",
     "description": "The label of footer link with label=Getting Started linking to /usage"
   },
-  "link.item.label.Disclaimer": {
-    "message": "免责声明",
-    "description": "The label of footer link with label=Getting Started linking to /disclaimer"
+  "link.item.label.Eula": {
+    "message": "用户协议",
+    "description": "The label of footer link with label=Getting Started linking to /eula"
   },
   "link.item.label.Privacy": {
     "message": "隐私政策",
