@@ -31,7 +31,54 @@ function HomepageHeader() {
               centerMode={true}
             >
               <div className="slide-item-box">
-                <img src={useBaseUrl("/img/showcase/task.png")} />
+                <img
+                  className="slide-item-light"
+                  src={useBaseUrl("/img/showcase/tl1.png")}
+                />
+                <img
+                  className="slide-item-dark"
+                  src={useBaseUrl("/img/showcase/tb1.png")}
+                />
+              </div>
+              <div className="slide-item-box">
+                <img
+                  className="slide-item-light"
+                  src={useBaseUrl("/img/showcase/tl2.png")}
+                />
+                <img
+                  className="slide-item-dark"
+                  src={useBaseUrl("/img/showcase/tb2.png")}
+                />
+              </div>
+              <div className="slide-item-box">
+                <img
+                  className="slide-item-light"
+                  src={useBaseUrl("/img/showcase/tl3.png")}
+                />
+                <img
+                  className="slide-item-dark"
+                  src={useBaseUrl("/img/showcase/tb3.png")}
+                />
+              </div>
+              <div className="slide-item-box">
+                <img
+                  className="slide-item-light"
+                  src={useBaseUrl("/img/showcase/tl4.png")}
+                />
+                <img
+                  className="slide-item-dark"
+                  src={useBaseUrl("/img/showcase/tb4.png")}
+                />
+              </div>
+              <div className="slide-item-box">
+                <img
+                  className="slide-item-light"
+                  src={useBaseUrl("/img/showcase/tl1.png")}
+                />
+                <img
+                  className="slide-item-dark"
+                  src={useBaseUrl("/img/showcase/tb1.png")}
+                />
               </div>
             </Carousel>
           </div>
