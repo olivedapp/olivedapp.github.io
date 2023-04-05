@@ -34,7 +34,7 @@ function Feature({ lightImage, darkImage, title, description }) {
     minHeight: "100px",
   };
   const textStyle = {
-    "white-space": "pre-wrap",
+    whiteSpace: "pre-wrap",
   };
 
   return (
