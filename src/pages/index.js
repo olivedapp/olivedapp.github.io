@@ -89,7 +89,7 @@ function HomepageHeader() {
             <div className={styles.buttons}>
               <Link
                 className="button button--primary button--lg"
-                to="/installation"
+                to="https://app.luxcgo.com"
               >
                 {translate({ id: "homepage.ButtonText" })}
               </Link>
