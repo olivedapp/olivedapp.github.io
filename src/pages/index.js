@@ -1,4 +1,5 @@
 import React from "react";
+import ReactPlayer from "react-player";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
@@ -108,6 +109,14 @@ function HomepageHeader() {
           <em>Olived CTO</em>
         </h4>
       </blockquote>
+      <div className={styles.video}>
+        <ReactPlayer
+          url={useBaseUrl("/video/intro.mp4")}
+          controls={true}
+          light={false}
+        />
+      </div>
+      <br></br>
     </div>
   );
 }
