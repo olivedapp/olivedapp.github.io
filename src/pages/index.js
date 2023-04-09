@@ -114,6 +114,7 @@ function HomepageHeader() {
           url={useBaseUrl("/video/intro.mp4")}
           controls={true}
           light={false}
+          volume={0.15}
         />
       </div>
       <br></br>
