@@ -11,13 +11,19 @@
 - `Fixed` 对 bug 的修复。
 - `Security` 对安全性的改进。
 
-# 
+#
 
-## v0.6.1 - 2022-04-07
+## v0.6.2 - 2023-04-10
+
+- 支持 bigo native
+- 支持 pixiv native
+- windows 下点击 close 按钮时执行逻辑从关闭应用改为隐藏应用
+
+## v0.6.1 - 2023-04-07
 
 - 修复 http timeout
 - 支持 twitch native
 
-## v0.6.0 - 2022-04-01
+## v0.6.0 - 2023-04-01
 
 - 为 olive 支持桌面端程序
