@@ -13,6 +13,11 @@
 
 #
 
+## v0.6.4 - 2023-04-12
+
+- 更新 close button 的逻辑
+- pixiv 支持 cookie
+
 ## v0.6.3 - 2023-04-11
 
 - 修复 bigo 和 pixiv 的代理问题
