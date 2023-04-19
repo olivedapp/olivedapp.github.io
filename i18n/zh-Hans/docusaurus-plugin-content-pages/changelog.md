@@ -13,6 +13,17 @@
 
 #
 
+## v0.6.6 - 2023-04-20
+
+- 修复 proxy 未生效的 bug
+- 支持 cc native
+- 支持 yy native
+- 支持 missevan native
+
+## v0.6.5 - 2023-04-13
+
+- 修复录制结束后的闪退
+
 ## v0.6.4 - 2023-04-12
 
 - 更新 close button 的逻辑
