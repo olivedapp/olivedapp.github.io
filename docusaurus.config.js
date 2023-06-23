@@ -78,8 +78,8 @@ const config = {
         },
         items: [
           {
-            label: "Usage",
-            to: "/usage",
+            label: "Guide",
+            to: "/guide",
           },
           {
             label: "Olivetv",
@@ -124,8 +124,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Usage",
-                to: "/usage",
+                label: "Guide",
+                to: "/guide",
               },
               {
                 label: "FAQ",
@@ -189,6 +189,12 @@ const config = {
         indexName: "olived",
         contextualSearch: true,
       },
+      metadata: [
+        {
+          name: "keywords",
+          content: "live stream recorder, cams recorder",
+        },
+      ],
     }),
 };
 

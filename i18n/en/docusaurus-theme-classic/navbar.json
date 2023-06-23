@@ -3,9 +3,9 @@
     "message": "Platform",
     "description": "The label for Olivetv"
   },
-  "item.label.Usage": {
+  "item.label.Guide": {
     "message": "Guide",
-    "description": "The label of footer link with label=Getting Started linking to /usage"
+    "description": "The label of footer link with label=Getting Started linking to /guide"
   },
   "item.label.Subscribe": {
     "message": "Subscribe",

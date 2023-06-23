@@ -63,9 +63,9 @@
     "message": "Discord",
     "description": "The label of footer link with label=Discord linking to https://discord.gg/JDdSxwjhGf"
   },
-  "link.item.label.Usage": {
-    "message": "Usage",
-    "description": "The label of footer link with label=Getting Started linking to /usage"
+  "link.item.label.Guide": {
+    "message": "Guide",
+    "description": "The label of footer link with label=Getting Started linking to /guide"
   },
   "link.item.label.Eula": {
     "message": "EULA",
