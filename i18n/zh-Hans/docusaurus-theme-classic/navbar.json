@@ -3,13 +3,17 @@
     "message": "下个版本 🚧",
     "description": "The label for version current"
   },
+  "item.label.Olivetv": {
+    "message": "直播平台",
+    "description": "The label for Olivetv"
+  },
   "item.label.Usage": {
-    "message": "使用指南 📖",
+    "message": "使用指南",
     "description": "The label of footer link with label=Getting Started linking to /usage"
   },
-  "item.label.Sponsor": {
-    "message": "赞助我们 😘",
-    "description": "Navbar item with label Sponsor"
+  "item.label.Subscribe": {
+    "message": "订阅",
+    "description": "Navbar item with label Subscribe"
   },
   "item.label.Docs": {
     "message": "文档",

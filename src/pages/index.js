@@ -89,25 +89,31 @@ function HomepageHeader() {
             </p>
             <div className={styles.buttons}>
               <Link
+                className="button button--secondary button--outline button--lg"
+                to="https://pay.olived.app"
+              >
+                {translate({ id: "homepage.SubscribeButtonText" })}
+              </Link>
+              <Link
                 className="button button--primary button--lg"
                 to="https://app.luxcgo.com"
               >
-                {translate({ id: "homepage.ButtonText" })}
+                {translate({ id: "homepage.DownloadButtonText" })}
               </Link>
             </div>
           </div>
         </div>
       </header>
       <blockquote>
-        <h3>
-          Olived
-          省去了传统录播程序繁琐的安装步骤，并设计了符合人体工程学的交互逻辑，每个录播者都应该试试它！
-        </h3>
-        <h4>
-          &mdash;&nbsp; luxcgo
-          <br />
-          <em>Olived CTO</em>
-        </h4>
+        <p>
+          终于来了！经过漫长的开发和测试阶段，OlivedPro
+          版本终于正式发布了。OlivedPro
+          是一款现代化的全平台直播录像机，它会时刻监控主播的直播状态，并在您喜欢的主播上线时自动开启录制。帮助您捕捉每一个直播内容，就像普通的电视录像机一样。
+          <br></br>该软件可以以最佳视频质量进行录制，从 720p 到
+          4K！在您的网络带宽允许的情况下，它可以同时录制任意场直播。现在，OlivedPro
+          已支持录制 Youtube、Twitch、Tiktok、抖音、斗鱼、虎牙、Nimo 、Bilibili
+          等平台！赶快下载使用吧！
+        </p>
       </blockquote>
       <div className={styles.video}>
         <ReactPlayer

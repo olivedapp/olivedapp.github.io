@@ -77,12 +77,12 @@ const config = {
             to: "/usage",
           },
           {
-            label: "Next",
-            to: "/next",
+            label: "Olivetv",
+            to: "/olivetv",
           },
           {
-            to: "https://afdian.net/@luxcgo",
-            label: "Sponsor",
+            to: "https://pay.olived.app",
+            label: "Subscribe",
             position: "left",
           },
           // {
@@ -92,12 +92,12 @@ const config = {
           //   label: "Tutorial",
           // },
           // { to: "/blog", label: "Blog", position: "left" },
-          {
-            href: "https://github.com/olivedapp/olived-cn/issues",
-            position: "right",
-            className: "header-github-link",
-            "aria-label": "GitHub repository",
-          },
+          // {
+          //   href: "https://github.com/olivedapp/olived",
+          //   position: "right",
+          //   className: "header-github-link",
+          //   "aria-label": "GitHub repository",
+          // },
         ],
       },
       footer: {
@@ -106,7 +106,7 @@ const config = {
           alt: "Olived Logo",
           src: "img/appicon.png",
           srcDark: "img/appicon.png",
-          href: "https://olived.app",
+          href: "https://pay.olived.app",
           width: 50,
           height: 50,
         },
@@ -119,12 +119,12 @@ const config = {
                 to: "/usage",
               },
               {
-                label: "Changelog",
-                to: "/changelog",
+                label: "FAQ",
+                to: "/faq",
               },
               {
-                label: "About",
-                to: "/about",
+                label: "Changelog",
+                to: "/changelog",
               },
             ],
           },
@@ -132,12 +132,12 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Github",
-                href: "https://github.com/olivedapp/olived-cn/issues",
+                label: "Reddit",
+                href: "https://www.reddit.com/r/OlivedApp",
               },
               {
-                label: "Telegram",
-                href: "https://t.me/olivedapp",
+                label: "Twitter",
+                href: "https://twitter.com/olivedapp",
               },
               {
                 label: "QQ",
