@@ -68,12 +68,12 @@
 
 ### youtube
 
-- 描述：YouTube Live 是 2008 年在旧金山和东京举行的互联网直播活动。
+- 描述：谷歌拥有的全球直播和视频托管社交平台。
 - URL(s)：https://www.youtube.com/@LofiGirl
 
 ### yy
 
-- 描述：YY 致力于打造全民娱乐的互动直播平台
+- 描述：YY 致力于打造全民娱乐的互动直播平台。
 - URL(s)：https://www.yy.com/22490906/22490906
 
 ## NSFW
@@ -90,7 +90,7 @@
 
 ### chaturbate
 
-- 描述：提供个人网络摄像头模特和情侣的现场网络摄像头表演
+- 描述：提供个人网络摄像头模特和情侣的现场网络摄像头表演。
 
 - URL(s)：https://chaturbate.com/fairy__love
 

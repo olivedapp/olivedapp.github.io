@@ -1,35 +1,35 @@
-# 直播平台
+# Platform
 
 ## SFW
 
 ### afreecatv
 
-- 描述：电视和视频游戏直播、艺术家表演和个人日常生活视频博客及节目。
-- URL(s)：https://play.afreecatv.com/flower1023/246866585
+- Description: TV and live video game broadcasts, artist performances and personal daily-life video blogs & shows.
+- URL(s): https://play.afreecatv.com/flower1023/246866585
 
 ### bigo
 
-- 描述：全球直播平台，用于视频游戏直播和个人直播。
-- URL(s)：https://www.bigo.tv/191756477
+- Description: Global live streaming platform for live video game broadcasts and individual live streams.
+- URL(s): https://www.bigo.tv/191756477
 
 ### bilibili
 
-- 描述：位于上海的中国视频分享网站，以动画、漫画和游戏（ACG）为主题。
-- URL(s)：https://live.bilibili.com/22230707
+- Description: Chinese video sharing website based in Shanghai, themed around animation, comics, and games (ACG).
+- URL(s): https://live.bilibili.com/22230707
 
 ### cc
 
-- 描述：网易推出的大型游戏娱乐直播平台,提供游戏直播、游戏视频、赛事直播、美女直播等。
+- Description: NetEase launched a large game entertainment live platform, providing live games, game video, live events, live beauty broadcast.
 
-- URL(s)：https://cc.163.com/406743551/
+- URL(s): https://cc.163.com/406743551/
 
 ### douyin
 
-- 描述：抖音直播自律平台。
+- Description: Live Self-Regulatory Platform.
 
-- URL(s)：https://live.douyin.com/559416663200
+- URL(s): https://live.douyin.com/559416663200
 
-- Cookie：
+- Cookie:
 
   ```
   __ac_nonce=0649533f7001da16cf085; __ac_signature=_02B4Z6wo00f017jTT.QAAIDA6KQLDsAF3PO480tAAIqqnzARIqih9MSxHN77OzLal66fvCb8ZvDa0CJa2lWECc5ZxytADPq2bmK6MIdweo9ELlYjlzYkBwBvvcodo395ANMMlyA6J0mW0Hz3b5;
@@ -37,66 +37,65 @@
 
 ### douyu
 
-- 描述：每个人的直播平台。
-- URL(s)：https://www.douyu.com/1607787
+- Description: A live platform for everyone.
+- URL(s): https://www.douyu.com/1607787
 
 ### huya
 
-- 描述：虎牙直播是以游戏直播为主的弹幕式互动直播平台。
-- URL(s)：https://www.huya.com/bbnj0620
+- Description: Huya is a pop-up interactive live streaming platform with a focus on live gaming.
+- URL(s): https://www.huya.com/bbnj0620
 
 ### nimo tv
 
-- 描述：全球领先的游戏直播平台。
-- URL(s)：https://www.nimo.tv/live/88315398
+- Description: The world's leading live gaming platform.
+- URL(s): https://www.nimo.tv/live/88315398
 
 ### pixiv
 
-- 描述：日本的一个艺术家在线社区。
-- URL(s)：https://sketch.pixiv.net/@wakutachisaki
-- Cookie：可选
+- Description: An online community of artists in Japan.
+- URL(s): https://sketch.pixiv.net/@wakutachisaki
+- Cookie: 可选
 
 ### tiktok
 
-- 描述： TikTok 允许用户进行实时互动。
-- URL(s)：https://www.tiktok.com/@fruiitytutty
+- Description: TikTok allows users to interact in real time.
+- URL(s): https://www.tiktok.com/@fruiitytutty
 
 ### twitch
 
-- 描述：Twitch 是一个互动的现场直播服务，内容涵盖游戏、娱乐、体育、音乐等方面。
-- URL(s)：https://www.twitch.tv/littlespacerock
+- Description: Global live-streaming and video hosting social platform owned by Amazon.
+- URL(s): https://www.twitch.tv/littlespacerock
 
 ### youtube
 
-- 描述：YouTube Live 是 2008 年在旧金山和东京举行的互联网直播活动。
-- URL(s)：https://www.youtube.com/@LofiGirl
+- Description: Global live-streaming and video hosting social platform owned by Google.
+- URL(s): https://www.youtube.com/@LofiGirl
 
 ### yy
 
-- 描述：YY 致力于打造全民娱乐的互动直播平台
-- URL(s)：https://www.yy.com/22490906/22490906
+- Description: YY is dedicated to building an interactive live streaming platform for all people to be entertained.
+- URL(s): https://www.yy.com/22490906/22490906
 
 ## NSFW
 
 ### bongacams
 
-- 描述：BongaCams 是一个成人直播平台，其内容由网络摄像头模特、情侣和 camboys 制作。
-- URL(s)：https://www.bongacams.com/miyaevans
+- Description: BongaCams is an adult live streaming platform that features content made by webcam models, couples, and camboys.
+- URL(s): https://www.bongacams.com/miyaevans
 
 ### cam4
 
-- 描述：CAM4.com（通常缩写为 CAM4），是一个直播网站，主要是业余表演者的现场表演。
-- URL(s)：https://www.cam4.com/annemona9
+- Description: CAM4.com (commonly abbreviated CAM4), is a live streaming website featuring live performances of primarily amateur performers.
+- URL(s): https://www.cam4.com/annemona9
 
 ### chaturbate
 
-- 描述：提供个人网络摄像头模特和情侣的现场网络摄像头表演
-
-- URL(s)：https://chaturbate.com/fairy__love
+- Description: Chaturbate is a pornographic website providing live webcam performances by individual webcam models and couples.
+- URL(s): https://chaturbate.com/fairy__love
 
 ### stripchat
 
-- 描述：在这里您可以找到数以千计的最优秀的模特，满足各种口味的需求。
-- URL(s)：https://stripchat.com/luckynira
-- 别名：
+- Description: Stripchat is a Live Adult Entertainment Platform where you will find thousands of the finest models for all tastes.
+- URL(s): https://stripchat.com/luckynira
+- Alias:
   - xhamsterlive
