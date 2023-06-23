@@ -20,9 +20,14 @@ const config = {
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: "zh-Hans",
-    locales: ["zh-Hans"],
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
     localeConfigs: {
+      en: {
+        label: "English",
+        direction: "ltr",
+        htmlLang: "en-US",
+      },
       "zh-Hans": {
         label: `简体中文`,
         direction: "ltr",
@@ -98,6 +103,10 @@ const config = {
           //   className: "header-github-link",
           //   "aria-label": "GitHub repository",
           // },
+          {
+            type: "localeDropdown",
+            position: "right",
+          },
         ],
       },
       footer: {

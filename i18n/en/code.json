@@ -1,0 +1,35 @@
+{
+  "homepage.Features.Title1": {
+    "message": "Personalization"
+  },
+  "homepage.Features.Description1": {
+    "message": "Numerous customization options available \n Support mulitple sites"
+  },
+  "homepage.Features.Title2": {
+    "message": "Advanced technology"
+  },
+  "homepage.Features.Description2": {
+    "message": "Multiple OS supported\n Elegant interface manipulation\n Excellent concurrency performance\n Very low memory footprint"
+  },
+  "homepage.Features.Title3": {
+    "message": "Easy and fast"
+  },
+  "homepage.Features.Description3": {
+    "message": "One command, in a flash, recording starts \n never miss a live again"
+  },
+  "homepage.Tagline": {
+    "message": "Olived | Recording has never been easier"
+  },
+  "homepage.DownloadButtonText": {
+    "message": "Download"
+  },
+  "homepage.SubscribeButtonText": {
+    "message": "Subscribe"
+  },
+  "homepage.Intro1": {
+    "message": "It's finally here! After a long development and testing phase, the OlivedPro was finally officially released. OlivedPro is a modern, all-platform live streaming recorder that monitors the streamer's status and automatically turns on recording when your favorite streamer is online. Helps you capture every live content just like a regular TV recorder."
+  },
+  "homepage.Intro2": {
+    "message": "This software can record with the best video quality, from 720p to 4K! If your network bandwidth allows, it can record any multiple broadcasts at the same time. Now, OlivedPro has supported recording on Youtube, Twitch, Tiktok, Douyin, Douyu, Huya, Nimo, Bilibili and lots of other platforms! Download and use it now!"
+  }
+}

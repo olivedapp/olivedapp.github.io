@@ -28,6 +28,6 @@ If any provision of this Agreement is held to be unenforceable or invalid, such 
 
 Olived reserves the right, at its sole discretion, to modify or replace this Agreement at any time. If a revision is material we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
-### Contact Information
+### Contact Us
 
-If you have any questions about this Agreement, please contact us.
+If you have any questions about this Agreement, please contact us at olivedapp@outlook.com.
