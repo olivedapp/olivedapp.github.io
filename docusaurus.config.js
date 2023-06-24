@@ -187,6 +187,10 @@ const config = {
           content:
             "live stream recorder, cams recorder, afreecatv live stream record bigo live stream record bilibili live stream record cc live stream record douyin live stream record douyu live stream record huya live stream record nimo live stream record pixiv live stream record tiktok live stream record twitch live stream record youtube live stream record yy live stream record bongacams live stream record cam4 live stream record chaturbate live stream record stripchat live stream record",
         },
+        {
+          name: "google-site-verification",
+          content: "bGvHt3Us4wWPxgvB_YRDYnF_LxAk9B3k2n9tCQvTZrI",
+        },
       ],
     }),
 };
