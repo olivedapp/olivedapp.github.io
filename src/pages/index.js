@@ -16,6 +16,10 @@ function HomepageHeader() {
   return (
     <div>
       <header className={clsx("hero", styles.heroBanner)}>
+        <meta
+          name="google-site-verification"
+          content="bGvHt3Us4wWPxgvB_YRDYnF_LxAk9B3k2n9tCQvTZrI"
+        />
         <div className="container">
           <div className="col">
             <Carousel
