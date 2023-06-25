@@ -78,25 +78,4 @@
 
 ## NSFW
 
-### bongacams
-
-- 描述：BongaCams 是一个成人直播平台，其内容由网络摄像头模特、情侣和 camboys 制作。
-- URL(s)：https://www.bongacams.com/miyaevans
-
-### cam4
-
-- 描述：CAM4.com（通常缩写为 CAM4），是一个直播网站，主要是业余表演者的现场表演。
-- URL(s)：https://www.cam4.com/annemona9
-
-### chaturbate
-
-- 描述：提供个人网络摄像头模特和情侣的现场网络摄像头表演。
-
-- URL(s)：https://chaturbate.com/fairy__love
-
-### stripchat
-
-- 描述：在这里您可以找到数以千计的最优秀的模特，满足各种口味的需求。
-- URL(s)：https://stripchat.com/luckynira
-- 别名：
-  - xhamsterlive
+支持所有主流网站，请自行尝试。

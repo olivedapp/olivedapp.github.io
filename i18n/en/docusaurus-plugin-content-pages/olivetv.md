@@ -78,24 +78,4 @@
 
 ## NSFW
 
-### bongacams
-
-- Description: BongaCams is an adult live streaming platform that features content made by webcam models, couples, and camboys.
-- URL(s): https://www.bongacams.com/miyaevans
-
-### cam4
-
-- Description: CAM4.com (commonly abbreviated CAM4), is a live streaming website featuring live performances of primarily amateur performers.
-- URL(s): https://www.cam4.com/annemona9
-
-### chaturbate
-
-- Description: Chaturbate is a pornographic website providing live webcam performances by individual webcam models and couples.
-- URL(s): https://chaturbate.com/fairy__love
-
-### stripchat
-
-- Description: Stripchat is a Live Adult Entertainment Platform where you will find thousands of the finest models for all tastes.
-- URL(s): https://stripchat.com/luckynira
-- Alias:
-  - xhamsterlive
+All mainstream sites are supported, try for yourself.
