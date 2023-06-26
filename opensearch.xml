@@ -4,8 +4,8 @@
   <ShortName>Olived</ShortName>
   <Description>Search Olived</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://olivedapp.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://olivedapp.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://olivedapp.github.io/opensearch.xml" />
-  <moz:SearchForm>https://olivedapp.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://olived.app/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://olived.app/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://olived.app/opensearch.xml" />
+  <moz:SearchForm>https://olived.app/</moz:SearchForm>
 </OpenSearchDescription>
