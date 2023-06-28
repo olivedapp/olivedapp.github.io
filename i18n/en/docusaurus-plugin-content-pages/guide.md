@@ -2,6 +2,21 @@
 
 ## Account Setup
 
+### Free Version
+
+- Works with no license key
+- Only 1 recording at a time
+
+### Premium Version
+
+- Works with premium license key
+- Unlimited simultaneous recordings
+- Maximum video quality (HD+)
+- Auto-recording of broadcasts
+- Watch list saving
+- Auto mp4 re-encoding
+- ...
+
 The **OlivedPro** subscription service offers three plans:
 
 - **$9.99 monthly license** with a 7-day free trial
