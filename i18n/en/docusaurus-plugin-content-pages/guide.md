@@ -4,8 +4,8 @@
 
 The **OlivedPro** subscription service offers three plans:
 
-- **$4.99 monthly license** with a 7-day free trial
-- **$19.99 half-yearly license** with one-time payment, **save up to 33%**
+- **$9.99 monthly license** with a 7-day free trial
+- **$39.99 yearly license** with one-time payment
 - **$69.99 lifetime license** with one-time payment
 
 Licences can be purchased at https://pay.olived.app/ and will be sent to your email address immediately upon purchase.
