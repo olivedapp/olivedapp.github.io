@@ -12,6 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.7.4 - 2023-07-01
+
+- Douyu does not turn on recording when rotating
+- TikTok adds HLS stream
+- Fixed the bug of long recording failure
+
 ## v0.6.7 - 2023-06-08
 
 - Add anti-flashback module, all crash logs will be recorded
