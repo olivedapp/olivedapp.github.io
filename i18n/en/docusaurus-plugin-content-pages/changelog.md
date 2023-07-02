@@ -12,6 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.7.6 - 2023-07-02
+
+- Support for AfreecaTV
+- Support for SC
+- Support for bilibili hls streams such as apex hero section
+
 ## v0.7.4 - 2023-07-01
 
 - Douyu does not turn on recording when rotating

@@ -6,6 +6,7 @@
 
 - Description: TV and live video game broadcasts, artist performances and personal daily-life video blogs & shows.
 - URL(s): https://play.afreecatv.com/flower1023/246866585
+- Cookie：19+ required
 
 ### bigo
 
@@ -54,7 +55,7 @@
 
 - Description: An online community of artists in Japan.
 - URL(s): https://sketch.pixiv.net/@wakutachisaki
-- Cookie: 可选
+- Cookie：r18 required
 
 ### tiktok
 
