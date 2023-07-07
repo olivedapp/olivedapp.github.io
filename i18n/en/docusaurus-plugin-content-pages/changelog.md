@@ -12,6 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.8.0 - 2023-07-08
+
+- mp4 auto transcoding optimization
+- Front-end component library updates
+- AfreecaTV compatible room number change
+- Fix AfreecaTV concurrency conflicts causing flashbacks
+- Add automatic restart function for crashes
+- File name template support path configuration
+- Add search box component
+
 ## v0.7.6 - 2023-07-02
 
 - Support for AfreecaTV
