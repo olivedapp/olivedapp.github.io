@@ -46,6 +46,11 @@
 - Description: Huya is a pop-up interactive live streaming platform with a focus on live gaming.
 - URL(s): https://www.huya.com/bbnj0620
 
+### kick
+
+- Description: Kick is a video live streaming service.
+- URL(s): https://kick.com/gmhikaru
+
 ### nimo tv
 
 - Description: The world's leading live gaming platform.

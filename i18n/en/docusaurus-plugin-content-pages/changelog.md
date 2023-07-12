@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.8.2 - 2023-07-13
+
+- Support kick.com native
+
 ## v0.8.0 - 2023-07-08
 
 - mp4 auto transcoding optimization

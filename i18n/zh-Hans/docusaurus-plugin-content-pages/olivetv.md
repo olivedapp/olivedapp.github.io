@@ -46,6 +46,11 @@
 - 描述：虎牙直播是以游戏直播为主的弹幕式互动直播平台。
 - URL(s)：https://www.huya.com/bbnj0620
 
+### kick
+
+- 描述：正在崛起的海外新平台.
+- URL(s): https://kick.com/gmhikaru
+
 ### nimo tv
 
 - 描述：全球领先的游戏直播平台。
