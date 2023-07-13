@@ -102,7 +102,7 @@ The following features are now supported:
 
 1. Open Developer Tools: In the page where you want to get the cookie, press F12 or Ctrl+shift+I or follow the steps below to open Developer Tools.
 
-   ! [image](/img/guide/en/1.png)
+   ![image](/img/guide/en/1.png)
 
 2. Locate the console in the toolbar and enter the following code in the console:
 
@@ -110,7 +110,7 @@ The following features are now supported:
 	console.log(document.cookie)
 	```
 
-   ! [image](/img/guide/en/2.png)
+   ![image](/img/guide/en/2.png)
 
 3. The output is the cookie value.
 
