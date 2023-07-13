@@ -14,7 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v0.8.2 - 2023-07-13
 
-- Support kick.com native
+- Added kick.com (using headless browser)
+- Fixed inaccurate download speed
+- Update download source
+- Update default config
 
 ## v0.8.0 - 2023-07-08
 
