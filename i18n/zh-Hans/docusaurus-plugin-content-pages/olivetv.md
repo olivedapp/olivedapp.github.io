@@ -46,6 +46,11 @@
 - 描述：虎牙直播是以游戏直播为主的弹幕式互动直播平台。
 - URL(s)：https://www.huya.com/bbnj0620
 
+### flextv
+
+- 描述：韩国个人直播平台。
+- URL(s): https://www.flextv.co.kr/channels/250193/live
+
 ### kick
 
 - 描述：正在崛起的海外新平台.
@@ -55,6 +60,11 @@
 
 - 描述：全球领先的游戏直播平台。
 - URL(s)：https://www.nimo.tv/live/88315398
+
+### pandalive
+
+- 描述：韩国个人直播平台。
+- URL(s): https://www.pandalive.co.kr/live/play/1427ec
 
 ### pixiv
 
@@ -66,6 +76,16 @@
 
 - 描述： TikTok 允许用户进行实时互动。
 - URL(s)：https://www.tiktok.com/@fruiitytutty
+
+### twitcasting
+
+- 描述：全球直播和直播存档社交平台。
+- URL(s)：https://twitcasting.tv/sara_hoshikawa
+- Cookie：密码房需要填写
+
+  ```
+  password=xxx;
+  ```
 
 ### twitch
 

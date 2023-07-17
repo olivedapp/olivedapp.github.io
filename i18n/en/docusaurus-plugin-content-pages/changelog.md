@@ -12,6 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.8.3 - 2023-07-17
+
+- Added https://twitcasting.tv/
+- Added https://www.pandalive.co.kr/
+- Added https://www.flextv.co.kr/
+- Added RoomID support for filename templates
+- Changed download speed calculation
+- Removed proxy settings
+- Removed leakless program
+
 ## v0.8.2 - 2023-07-13
 
 - Added kick.com (using headless browser)

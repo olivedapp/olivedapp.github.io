@@ -41,6 +41,11 @@
 - Description: A live platform for everyone.
 - URL(s): https://www.douyu.com/1607787
 
+### flextv
+
+- Description: South Korean live-streaming platform for individual live streams.
+- URL(s): https://www.flextv.co.kr/channels/250193/live
+
 ### huya
 
 - Description: Huya is a pop-up interactive live streaming platform with a focus on live gaming.
@@ -56,6 +61,11 @@
 - Description: The world's leading live gaming platform.
 - URL(s): https://www.nimo.tv/live/88315398
 
+### pandalive
+
+- Description: South Korean live-streaming platform for individual live streams.
+- URL(s): https://www.pandalive.co.kr/live/play/1427ec
+
 ### pixiv
 
 - Description: An online community of artists in Japan.
@@ -66,6 +76,16 @@
 
 - Description: TikTok allows users to interact in real time.
 - URL(s): https://www.tiktok.com/@fruiitytutty
+
+### twitcasting
+
+- Description: Global live broadcasting and live broadcast archiving social platform.
+- URL(s)：https://twitcasting.tv/sara_hoshikawa
+- Cookie：Required for password room.
+
+  ```
+  password=xxx;
+  ```
 
 ### twitch
 

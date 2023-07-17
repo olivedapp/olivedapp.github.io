@@ -38,23 +38,6 @@ Modify theme colours
 
 Modify default language
 
-### Proxy
-
-Because of the complexity of the network environment, it is not recommended to use this method to set up a proxy.
-It is recommended to use tun mode to set up the system proxy, so that the proxy software can take over all the traffic, and then use the rule judgment to set up the access to a certain website whether it is directly connected or in proxy mode.
-
-```python
-<SCHEME>://[<USER>:<PASS>@]<HOST>:<PORT>
-```
-
-Specify a proxy for downloading, e.g:
-
-- socks5://127.0.0.1:1080
-- http://192.168.1.1:8080
-- http://user:password@proxy.example.com:8080
-
-HTTP, HTTPS and SOCKS5 proxy servers are supported.
-
 ### Detection interval
 
 The interval in seconds to detect if the host is broadcasting live
@@ -65,6 +48,7 @@ The interval in seconds to detect if the host is broadcasting live
 - Host name: `{{ .StreamerName }}`
 - Broadcast title: `{{ .RoomName }}`
 - Live Streaming Platform: `{{ .SiteName }}`
+- Room ID: `{{ .RoomID }}`
 
 The default file name can be changed as required
 
@@ -106,9 +90,9 @@ The following features are now supported:
 
 2. Locate the console in the toolbar and enter the following code in the console:
 
-	```sh
-	console.log(document.cookie)
-	```
+   ```sh
+   console.log(document.cookie)
+   ```
 
    ![image](/img/guide/en/2.png)
 

@@ -11,6 +11,16 @@
 - `Fixed` 对 bug 的修复。
 - `Security` 对安全性的改进。
 
+## v0.8.3 - 2023-07-17
+
+- 支持 https://twitcasting.tv/
+- 支持 https://www.pandalive.co.kr/
+- 支持 https://www.flextv.co.kr/
+- 文件名模板支持 RoomID
+- 优化下载速度显示
+- 移除 proxy 设置
+- 移除 leakless 程序
+
 ## v0.8.2 - 2023-07-13
 
 - 支持 kick.com（使用无头浏览器）

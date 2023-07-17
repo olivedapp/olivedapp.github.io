@@ -40,20 +40,8 @@
 
 ### 代理
 
-因为网络环境复杂，不推荐使用这种方法设置代理。
+若中国大陆地区的用户需要下载境外直播网站，需要设置代理。
 推荐使用 tun 模式设置系统代理，让代理软件接管所有流量，再使用规则判断来设置访问某个网站是直连还是代理模式。
-
-```python
-<SCHEME>://[<USER>:<PASS>@]<HOST>:<PORT>
-```
-
-指定一个用于下载的代理，例如：
-
-- socks5://127.0.0.1:1080
-- http://192.168.1.1:8080
-- http://user:password@proxy.example.com:8080
-
-支持 HTTP、HTTPS 和 SOCKS5 代理服务器。
 
 ### 检测间隔
 
@@ -65,6 +53,7 @@
 - 主播名称: `{{ .StreamerName }}`
 - 直播标题: `{{ .RoomName }}`
 - 直播平台: `{{ .SiteName }}`
+- 房间号: `{{ .RoomID }}`
 
 可以根据需要修改默认的文件名称
 
@@ -100,15 +89,15 @@ cctv: cookie3
 
 ## 如何获取 cookie 值？
 
-1. 打开开发人员工具：在想要获取cookie的页面处，按F12或是Ctrl+shift+I键或是按照下图操作步骤，打开开发人员工具。
+1. 打开开发人员工具：在想要获取 cookie 的页面处，按 F12 或是 Ctrl+shift+I 键或是按照下图操作步骤，打开开发人员工具。
 
    ![image](/img/guide/zh-Hans/1.png)
 
 2. 找到工具栏中的控制台，在控制台中输入如下代码，输入后按 enter 键：
 
-	```sh
-	console.log(document.cookie)
-	```
+   ```sh
+   console.log(document.cookie)
+   ```
 
    ![image](/img/guide/zh-Hans/2.png)
 
