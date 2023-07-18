@@ -137,12 +137,12 @@ const config = {
                 href: "https://www.reddit.com/r/OlivedApp",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/olivedapp",
+                label: "TG",
+                href: "https://t.me/olivedapp",
               },
               {
-                label: "QQ",
-                href: "https://qm.qq.com/cgi-bin/qm/qr?k=c6CTyYkB-p-o8ZoT5ldcjuFAVnyu5vEL&jump_from=webapi",
+                label: "Email",
+                href: "mailto:olivedapp@outlook.com",
               },
             ],
           },
