@@ -96,7 +96,7 @@ function HomepageHeader() {
               </Link>
               <Link
                 className="button button--primary button--lg"
-                to="https://www.feijix.com/s/qFmJMmv"
+                to="https://app.luxcgo.com"
               >
                 {translate({ id: "homepage.DownloadButtonText" })}
               </Link>
