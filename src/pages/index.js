@@ -128,7 +128,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`The ${siteConfig.title} Project`}
+      title={`Olived · ${tagline}`}
       description={translate({ id: "homepage.Tagline" })}
     >
       <HomepageHeader />
