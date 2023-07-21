@@ -137,8 +137,8 @@ const config = {
                 href: "https://www.reddit.com/r/OlivedApp",
               },
               {
-                label: "TG",
-                href: "https://t.me/olivedapp",
+                label: "Twitter",
+                href: "https://twitter.com/olivedapp",
               },
               {
                 label: "Email",
