@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4313],{91293:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/video-downloader/page/2","page":2,"postsPerPage":10,"totalPages":15,"totalCount":144,"previousPage":"/blog/tags/video-downloader","nextPage":"/blog/tags/video-downloader/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
