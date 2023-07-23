@@ -41,15 +41,26 @@
 - 描述：每个人的直播平台。
 - URL(s)：https://www.douyu.com/1607787
 
+### huajiao
+
+- 描述：国内移动社交直播平台。
+- URL(s)：https://www.huajiao.com/user/267373064
+
 ### huya
 
 - 描述：虎牙直播是以游戏直播为主的弹幕式互动直播平台。
 - URL(s)：https://www.huya.com/bbnj0620
 
+### inke
+
+- 描述：高颜值直播交友社交平台。
+- URL(s)：https://www.inke.cn/725343259 （725343259 是房间 ID）
+
 ### flextv
 
 - 描述：韩国个人直播平台。
 - URL(s): https://www.flextv.co.kr/channels/250193/live
+- Cookie：19+ 需要填写
 
 ### kick
 
@@ -65,6 +76,7 @@
 
 - 描述：韩国个人直播平台。
 - URL(s): https://www.pandalive.co.kr/live/play/1427ec
+- Cookie：19+ 需要填写
 
 ### pixiv
 

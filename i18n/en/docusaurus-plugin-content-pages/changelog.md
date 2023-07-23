@@ -12,6 +12,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.8.5 - 2023-07-23
+
+- Added https://www.huajiao.com/
+- Added https://www.inke.cn/
+- Added pandalive 19+
+- Added flextv 19+
+- Optimise OS time detection
+- Self-built cloud drive
+- Moved servers from Tencent Cloud to Amazon Cloud
+- Fix hls small files not deleted correctly
+
 ## v0.8.3 - 2023-07-17
 
 - Added https://twitcasting.tv/

@@ -11,6 +11,17 @@
 - `Fixed` 对 bug 的修复。
 - `Security` 对安全性的改进。
 
+## v0.8.5 - 2023-07-23
+
+- 支持 https://www.huajiao.com/
+- 支持 https://www.inke.cn/
+- 支持 pandalive 19+
+- 支持 flextv 19+
+- 优化操作系统时间检测
+- 自建下载网盘
+- 服务器从腾讯云迁至亚马逊云
+- 修复 hls 流小文件未正确删除
+
 ## v0.8.3 - 2023-07-17
 
 - 支持 https://twitcasting.tv/

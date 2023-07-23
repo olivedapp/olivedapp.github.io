@@ -45,11 +45,22 @@
 
 - Description: South Korean live-streaming platform for individual live streams.
 - URL(s): https://www.flextv.co.kr/channels/250193/live
+- Cookie：19+ required
+
+### huajiao
+
+- Description: Domestic mobile social live streaming platform.
+- URL(s): https://www.huajiao.com/user/267373064
 
 ### huya
 
 - Description: Huya is a pop-up interactive live streaming platform with a focus on live gaming.
 - URL(s): https://www.huya.com/bbnj0620
+
+### inke
+
+- Description: High-value live dating social platform.
+- URL(s): https://www.inke.cn/725343259 (725343259 is the room ID)
 
 ### kick
 
@@ -65,6 +76,7 @@
 
 - Description: South Korean live-streaming platform for individual live streams.
 - URL(s): https://www.pandalive.co.kr/live/play/1427ec
+- Cookie：19+ required
 
 ### pixiv
 
