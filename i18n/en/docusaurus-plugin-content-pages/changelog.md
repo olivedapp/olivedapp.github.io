@@ -23,6 +23,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Moved servers from Tencent Cloud to Amazon Cloud
 - Fix hls small files not deleted correctly
 
+## v0.8.8 - 2023-08-01
+
+- Fix some YouTube live broadcast rooms that could not be jumped
+- Fix Twitch API update
+- Added parser option
+- Added default cookies for douyin
+- Fix an issue where HTTP client requests could time out
+
 ## v0.8.3 - 2023-07-17
 
 - Added https://twitcasting.tv/

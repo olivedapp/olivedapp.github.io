@@ -11,6 +11,14 @@
 - `Fixed` 对 bug 的修复。
 - `Security` 对安全性的改进。
 
+## v0.8.8 - 2023-08-01
+
+- 修复部分 youtube 直播间无法跳转
+- 修复 twitch api 的更新
+- 增加 parser 选项
+- 抖音增加默认 cookie
+- 修复 http 客户端请求可能超时的问题
+
 ## v0.8.5 - 2023-07-23
 
 - 支持 https://www.huajiao.com/
