@@ -98,6 +98,16 @@ The following features are now supported:
 
 3. The output is the cookie value.
 
+## How to switch to a computer?
+
+You can always switch to a new computer if you would like.
+
+First login to the page https://app.lemonsqueezy.com/my-orders/ using your email address, and locate the activation that matches your user id, and then click the deactivate button. That's all, now you can use the license key to activate a new computer.
+
+![image](/img/guide/en/3.png)
+
+![image](/img/guide/en/4.png)
+
 ## How to report problems encountered?
 
 Fill in the following form and send an email to olivedapp@outlook.com

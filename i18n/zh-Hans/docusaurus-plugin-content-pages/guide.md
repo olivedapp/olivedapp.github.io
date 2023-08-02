@@ -103,6 +103,16 @@ cctv: cookie3
 
 3. 输出的内容就是 cookie 值了。
 
+## 如何更换电脑？
+
+如果您愿意，可以随时切换到新电脑。
+
+首先使用您的电子邮件地址登录 https://app.lemonsqueezy.com/my-orders/ 页面，找到与你的用户 ID 匹配的激活项，然后点击停用按钮。仅此而已，现在你就可以使用许可证密钥激活新电脑了。
+
+![image](/img/guide/zh-Hans/3.png)
+
+![image](/img/guide/zh-Hans/4.png)
+
 ## 如何反馈遇到的问题？
 
 按照以下的格式填写相关的内容，发送邮件到 olivedapp@outlook.com
