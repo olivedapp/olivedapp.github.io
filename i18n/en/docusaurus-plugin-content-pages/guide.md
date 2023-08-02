@@ -98,6 +98,10 @@ The following features are now supported:
 
 3. The output is the cookie value.
 
+## How to get a refund?
+
+Virtual goods, no return or exchange after purchase. Please be careful when purchasing.
+
 ## How to switch to a computer?
 
 You can always switch to a new computer if you would like.

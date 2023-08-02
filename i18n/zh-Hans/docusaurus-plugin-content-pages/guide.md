@@ -113,6 +113,10 @@ cctv: cookie3
 
 ![image](/img/guide/zh-Hans/4.png)
 
+## 如何退款？
+
+虚拟商品，购买后恕不退换。请谨慎购买。
+
 ## 如何反馈遇到的问题？
 
 按照以下的格式填写相关的内容，发送邮件到 olivedapp@outlook.com
