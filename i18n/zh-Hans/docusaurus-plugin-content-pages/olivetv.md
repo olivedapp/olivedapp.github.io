@@ -104,10 +104,20 @@
 - 描述：Twitch 是一个互动的现场直播服务，内容涵盖游戏、娱乐、体育、音乐等方面。
 - URL(s)：https://www.twitch.tv/littlespacerock
 
+### weibo
+
+- 描述：随时随地发现新鲜事
+- URLS(s)：https://weibo.com/l/wblive/p/show/1022:2321324933968775742003
+
 ### youtube
 
 - 描述：谷歌拥有的全球直播和视频托管社交平台。
 - URL(s)：https://www.youtube.com/@LofiGirl
+- Cookie：若存在多个直播间可以选择指定直播间，如下配置表示选择第二个
+
+  ```
+  order=2;
+  ```
 
 ### yy
 

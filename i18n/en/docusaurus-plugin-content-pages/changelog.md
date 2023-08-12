@@ -12,6 +12,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.9.0 - 2023-08-12
+
+- youtube support for selecting a live room
+- Add option to auto delete small files
+- Show parser option in task details.
+- Access to 1000+ live broadcast platforms supported by ytdlp.
+- Optimise twitch native
+- Add live status verification after recording.
+- Fix the problem of transcoding failure in some cases.
+- Client built-in proxy server, optimise the network in some areas of mainland China.
+- Support recording single weibo live broadcast.
+
 ## v0.8.8 - 2023-08-01
 
 - Fix some YouTube live broadcast rooms that could not be jumped

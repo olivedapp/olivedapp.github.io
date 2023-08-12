@@ -104,10 +104,20 @@
 - Description: Global live-streaming and video hosting social platform owned by Amazon.
 - URL(s): https://www.twitch.tv/littlespacerock
 
+### weibo
+
+- Description: Discover what's new anytime, anywhere
+- URLS(s): https://weibo.com/l/wblive/p/show/1022:2321324933968775742003
+
 ### youtube
 
 - Description: Global live-streaming and video hosting social platform owned by Google.
 - URL(s): https://www.youtube.com/@LofiGirl
+- Cookie: If there is more than one live room you can choose to specify the live room, the following configuration indicates that the second one is selected
+
+  ```
+  order=2;
+  ```
 
 ### yy
 
