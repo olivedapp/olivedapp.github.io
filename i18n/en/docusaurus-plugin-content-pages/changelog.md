@@ -12,6 +12,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.9.3 - 2023-08-18
+
+- Support 173.com
+- flextv fixed that some live rooms could not be recorded
+- TikTok uses the RTMP protocol by default
+- Douyu update API to get the original stream
+- Fixed a bug with a small probability of crashing
+
 ## v0.9.0 - 2023-08-12
 
 - youtube support for selecting a live room
