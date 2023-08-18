@@ -23,8 +23,9 @@ The **OlivedPro** subscription service offers three plans:
 - **$39.99 yearly license** with one-time payment
 - **$69.99 lifetime license** with one-time payment
 
-Licences can be purchased at https://pay.olived.app/ and will be sent to your email address immediately upon purchase.
-All features will be unlocked when the licence is activated. Each licence can be activated for two computers at the same time. If you change to a new computer, you can also de-activate the licence on the order page (the licence will then be deactivated on the old computer) and re-activate it on the new computer.
+Licences can be purchased at https://pay.olived.app/ and will be sent to your email address immediately upon purchase.  
+All features will be unlocked when the licence is activated. Each licence can be activated for two computers at the same time. If you change to a new computer, you can also de-activate the licence on the order page (the licence will then be deactivated on the old computer) and re-activate it on the new computer.  
+This is a virtual item and is not returnable after purchase. Please make sure it meets your demands for use before purchasing.
 
 If you have any questions, please contact olivedapp@outlook.com or ask in the community and we will help you as soon as possible.
 
@@ -107,10 +108,6 @@ First login to the page https://app.lemonsqueezy.com/my-orders/ using your email
 ![image](/img/guide/en/3.png)
 
 ![image](/img/guide/en/4.png)
-
-## How to get a refund?
-
-Virtual goods, no return or exchange after purchase. Please be careful when purchasing.
 
 ## How to report problems encountered?
 

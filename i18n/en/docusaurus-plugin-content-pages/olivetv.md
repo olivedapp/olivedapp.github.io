@@ -119,6 +119,11 @@
   order=2;
   ```
 
+### yqs
+
+- Description: Yiqisan live to share love together.
+- URL(s): https://www.173.com/41366
+
 ### yy
 
 - Description: YY is dedicated to building an interactive live streaming platform for all people to be entertained.
