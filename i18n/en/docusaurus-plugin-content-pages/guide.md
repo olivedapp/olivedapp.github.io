@@ -29,6 +29,10 @@ This is a virtual item and is not returnable after purchase. Please make sure it
 
 If you have any questions, please contact olivedapp@outlook.com or ask in the community and we will help you as soon as possible.
 
+## Video tutorial
+
+Search for OlivedApp on the youtube or click on the video link: https://www.youtube.com/@OlivedApp
+
 ## Preferred configuration
 
 ### Theme

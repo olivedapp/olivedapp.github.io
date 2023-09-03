@@ -12,6 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.9.5 - 2023-09-05
+
+- Add the feature to get snapshots of live
+- Add switch to use global cookies or not
+- Optimise tiktok to reduce the number of requests sent
+- Fix a bug that skipped transcoding in some cases
+
 ## v0.9.3 - 2023-08-18
 
 - Support 173.com
