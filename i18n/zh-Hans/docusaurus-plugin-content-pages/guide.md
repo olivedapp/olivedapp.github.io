@@ -109,6 +109,22 @@ cctv: cookie3
 
 3. 输出的内容就是 cookie 值了。
 
+## 如何获取 tiktok cookie 值？
+
+在正常情况下，您无需填充此项。但当您尝试录制 tiktok 直播失败时，请按如下步骤获取到 cookie 填入 cookie 项中。
+
+![image](/img/guide/zh-Hans/5.png)
+
+1. 如图所示，在浏览器中打开 https://www.tiktok.com/@rony3599/live
+
+2. 搜索 https://webcast.tiktok.com/webcast/room/enter/
+
+3. 在搜索出的 Response 里搜索 id_str
+
+4. cookie 值即为拼接成的 rony3599=7274984685763365634;
+
+5. 将 cookie 填入 cookie 项中
+
 ## 如何更换电脑？
 
 如果您愿意，可以随时切换到新电脑。

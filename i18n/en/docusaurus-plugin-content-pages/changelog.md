@@ -12,6 +12,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.9.7 - 2023-09-06
+
+- Douyin api update
+- Douyin supports auto-fill cookies, eliminating the need to fill them in manually
+
 ## v0.9.5 - 2023-09-05
 
 - Add the feature to get snapshots of live

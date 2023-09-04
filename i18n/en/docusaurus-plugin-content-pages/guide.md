@@ -103,6 +103,22 @@ The following features are now supported:
 
 3. The output is the cookie value.
 
+## How do I get the tiktok cookie value?
+
+Under normal circumstances, you don't need to fill this. However, if your attempt to record a tiktok live broadcast fails, please follow the steps below to get the cookie and fill it into the cookie entry.
+
+! [image](/img/guide/zh-Hans/5.png)
+
+1. Open https://www.tiktok.com/@rony3599/live in your browser as shown in the picture.
+
+2. Search for https://webcast.tiktok.com/webcast/room/enter/
+
+3. Search for id_str in the Response that comes up.
+
+4. the cookie value is stitched together as rony3599=7274984685763365634;
+
+5. fill the cookie into the cookie entry
+
 ## How to switch to a computer?
 
 You can always switch to a new computer if you would like.
