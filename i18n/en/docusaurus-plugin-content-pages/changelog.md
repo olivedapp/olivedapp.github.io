@@ -12,10 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
-## v0.9.7 - 2023-09-06
+## v0.9.19 - 2023-09-22
 
-- Douyin api update
-- Douyin supports auto-fill cookies, eliminating the need to fill them in manually
+- New platform lang live
+- Pandatv api update
+- Twitcastingtv supports member-only live streaming.
+- New proxy option inside the software
 
 ## v0.9.5 - 2023-09-05
 

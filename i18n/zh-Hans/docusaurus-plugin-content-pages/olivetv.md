@@ -61,6 +61,11 @@
 - 描述：正在崛起的海外新平台.
 - URL(s): https://kick.com/gmhikaru
 
+### lang live
+
+- 描述：歌唱才藝直播平台
+- URL(s): https://www.lang.live/en-US/room/4645125
+
 ### nimo tv
 
 - 描述：全球领先的游戏直播平台。

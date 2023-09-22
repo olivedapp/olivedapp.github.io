@@ -61,6 +61,11 @@
 - Description: Kick is a video live streaming service.
 - URL(s): https://kick.com/gmhikaru
 
+### lang live
+
+- Description: Singing Talent Live Streaming Platform
+- URL(s): https://www.lang.live/en-US/room/4645125
+
 ### nimo tv
 
 - Description: The world's leading live gaming platform.

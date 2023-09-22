@@ -11,6 +11,13 @@
 - `Fixed` 对 bug 的修复。
 - `Security` 对安全性的改进。
 
+## v0.9.19 - 2023-09-22
+
+- 新增平台 lang live
+- pandatv api 更新
+- twitcastingtv 支持会员限定直播
+- 新增软件内部的代理选项
+
 ## v0.9.7 - 2023-09-06
 
 - 抖音 api 更新

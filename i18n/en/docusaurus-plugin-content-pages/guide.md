@@ -135,6 +135,8 @@ Fill in the following form and send an email to olivedapp@outlook.com
 
 1. Fill in the basic information, including the software version number, computer system information and the live url.
 
-2. Describe the problem, you can attach relevant screenshots or videos.
+2. Using the `Snapshot` feature and taking a screenshot.
 
-3. Attach the log files, the location of the log file can be seen at the bottom of the advanced settings. The log file names are olivedpro.log (must exist) and panic.log (may not exist).
+3. Describe the problem, you can attach relevant screenshots or videos.
+
+4. Attach the log files, the location of the log file can be seen at the bottom of the advanced settings. The log file names are olivedpro.log (must exist) and panic.log (may not exist).
