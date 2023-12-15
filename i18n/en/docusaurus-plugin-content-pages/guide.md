@@ -27,49 +27,15 @@ Licences can be purchased at https://pay.olived.app/ and will be sent to your em
 All features will be unlocked when the licence is activated. Each licence can be activated for two computers at the same time. If you change to a new computer, you can also de-activate the licence on the order page (the licence will then be deactivated on the old computer) and re-activate it on the new computer.  
 This is a virtual item and is not returnable after purchase. Please make sure it meets your demands for use before purchasing.
 
-If you have any questions, please contact olivedapp@outlook.com or ask in the community and we will help you as soon as possible.
+If you have any questions, please contact us at olivedapp@outlook.com, and we will assist you as soon as possible.
 
 ## Video tutorial
 
 Search for OlivedApp on the youtube or click on the video link: https://www.youtube.com/@OlivedApp
 
-## Preferred configuration
+## Task List
 
-### Theme
-
-Modify theme colours
-
-### Language
-
-Modify default language
-
-### Detection interval
-
-The interval in seconds to detect if the host is broadcasting live
-
-### File name templates
-
-- Date: `{{ now | date \"2006-01-02 15-04-05\"}}`
-- Host name: `{{ .StreamerName }}`
-- Broadcast title: `{{ .RoomName }}`
-- Live Streaming Platform: `{{ .SiteName }}`
-- Room ID: `{{ .RoomID }}`
-
-The default file name can be changed as required
-
-### Cookies
-
-Global cookie configuration
-
-```sh
-aatv: cookie1
-bbtv: cookie2
-cctv: cookie3
-```
-
-The above example means that the cookie value cookie1 is used when recording aatv, the cookie value cookie2 is used when recording bbtv, and so on.
-
-## How to add a new task?
+### Live URL
 
 By default, you just need to paste the live url, and the other configuration items will be parsed automatically, you don't need to fill them in manually. If the url is not parsed immediately, please wait for a few seconds, if it is still not parsed successfully, please check whether the url format is correct and whether the network is smooth.
 
@@ -87,7 +53,93 @@ The following features are now supported:
 - Custom storage path
 - Custom downloader (It is better to use the default downloader, not every downloader supports all platforms.)
 
-## How to get the cookie value?
+### Snapshot
+
+Clicking on "Snapshot" will provide detailed information about the current live broadcast, which can be used when providing feedback on issues.
+
+### Post Commands
+
+The post-command is essentially a script file that will be executed upon the completion of recording, to meet certain customized requirements.  
+Clicking "test run" will simulate the execution of the entered post-command.
+
+On Windows platform, post-command is used as a bat script:
+
+- `%ffmpeg%` is used to call ffmpeg.
+- `%record%` is used to obtain the absolute path of the recorded file.
+
+```sh
+# split a video file every 60 seconds
+%ffmpeg% -i "%record%" -c copy -f segment -segment_time 60 -reset_timestamps 1 -map 0 "%record%_%%d.mp4"
+```
+
+```sh
+# move a video file to a target directory 
+for %%a in ("%record%") do set filename=%%~nxa
+echo %filename%
+# C:\Users\Administrator\Downloads\olivedpro_downloads\ is the target directory 
+move %record% "C:\Users\Administrator\Downloads\olivedpro_downloads\%filename%"
+```
+
+On Mac platform, post-command is used as a bash script:
+
+- `$ffmpeg` is used to call ffmpeg.
+- `$record` is used to obtain the absolute path of the recorded file.
+
+```sh
+# split a video file every 60 seconds
+$ffmpeg -i "$record" -c copy -f segment -segment_time 60 -reset_timestamps 1 -map 0 "$record""_%d.flv"
+```
+
+```sh
+# move a video file to a target directory 
+mv "$record" /Users/mac/Downloads/
+```
+
+## Preferences
+
+### Account
+
+* Activating the license unlocks all features.
+* Clicking "Export config" saves all software configurations locally for backup or migration to another computer.
+* Clicking "Import config" allows overwriting the current configuration with the local configuration file, clearing all previous recording tasks.
+
+### Basic
+
+* Theme: Modify theme colours
+* Language: Modify default language
+
+### Advanced
+
+* Proxy: If unable to record live content properly due to network issues, a proxy needs to be configured. Enable the use of a proxy server and enter the following details. If you are unsure how to find the port number, you can easily find guidance by searching for "how to find proxy port number in [your operating system]" on a search engine.
+   ```
+   http://127.0.0.1:The port number used by your proxy software
+   ```
+* Interval: The interval in seconds to detect if the host is broadcasting live
+* Out Tmpl: You can modify the default file name template as needed
+   - Date: `{{ now | date \"2006-01-02 15-04-05\"}}`
+   - Host name: `{{ .StreamerName }}`
+   - Broadcast title: `{{ .RoomName }}`
+   - Live Streaming Platform: `{{ .SiteName }}`
+   - Room ID: `{{ .RoomID }}`
+* Cookies: The below example means that the cookie value cookie1 is used when recording aatv, the cookie value cookie2 is used when recording bbtv, and so on.
+   ```sh
+   aatv: cookie1
+   bbtv: cookie2
+   cctv: cookie3
+   ```
+* Post Commands: The global configuration (detailed explanation can be found in the previous text).
+* Download Dir: The default download path for video files
+* Encode: Whether to convert to MP4 format after recording
+* Auto delete filesize: Files smaller than the specified size after recording will be deleted. If you do not want to delete, you can configure it as 0.01
+* APP Log Path: To be used for bug reporting
+
+## FAQ
+
+### What live streaming platforms are supported?
+
+The list of supported live streaming platforms can be found on the "Platform" page above.
+
+### How to get the cookie value?
 
 1. Open Developer Tools: In the page where you want to get the cookie, press F12 or Ctrl+shift+I or follow the steps below to open Developer Tools.
 
@@ -103,7 +155,7 @@ The following features are now supported:
 
 3. The output is the cookie value.
 
-## How do I get the tiktok cookie value?
+### How do I get the tiktok cookie value?
 
 Under normal circumstances, you don't need to fill this. However, if your attempt to record a tiktok live broadcast fails, please follow the steps below to get the cookie and fill it into the cookie entry.
 
@@ -119,7 +171,7 @@ Under normal circumstances, you don't need to fill this. However, if your attemp
 
 5. fill the cookie into the cookie entry
 
-## How to switch to a computer?
+### How to switch to a computer?
 
 You can always switch to a new computer if you would like.
 
@@ -129,7 +181,15 @@ First login to the page https://app.lemonsqueezy.com/my-orders/ using your email
 
 ![image](/img/guide/en/4.png)
 
-## How to report problems encountered?
+### How to improve the recording quality for Bilibili live streaming?
+
+Open the streaming room page, as shown in the image below, and enter the cookie to enhance the recording quality.
+
+![image](/img/guide/zh-Hans/5.png)
+
+![image](/img/guide/zh-Hans/6.png)
+
+### How to report problems encountered?
 
 Fill in the following form and send an email to olivedapp@outlook.com
 
