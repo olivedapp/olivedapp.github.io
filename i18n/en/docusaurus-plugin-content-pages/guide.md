@@ -181,6 +181,10 @@ First login to the page https://app.lemonsqueezy.com/my-orders/ using your email
 
 ![image](/img/guide/en/4.png)
 
+### How to cancel the automatic renewal of a monthly subscription?
+
+You can login to the page https://app.lemonsqueezy.com/my-orders/ using your email address. And you'll be able cancel subscription on that page. After that, you old license will be expired.
+
 ### How to improve the recording quality for Bilibili live streaming?
 
 Open the streaming room page, as shown in the image below, and enter the cookie to enhance the recording quality.
