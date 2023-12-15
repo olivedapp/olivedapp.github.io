@@ -63,17 +63,21 @@ B 站搜索 OlivedApp 或点击视频链接：https://space.bilibili.com/3493276
 后置命令本质上是一个脚本文件，将会在录制结束时执行，用于满足一些定制化的需求。  
 点击测试运行会模拟执行填入的后置命令。
 
-windows 平台：后置命令是 bat 脚本
+**Windows 平台：后置命令是 bat 脚本**
 
 * 通过 `%ffmpeg%` 调用 ffmpeg
 * 通过 `%record%` 获取到录制文件的绝对路径（注：文件名不要包含中文字符，否则可能会执行命令失败。）
 * 其它自定义命令
 
+下面是一些使用案例:
+
+例子一
 ```sh
 # 每 60s 切割一下视频文件
 %ffmpeg% -i "%record%" -c copy -f segment -segment_time 60 -reset_timestamps 1 -map 0 "%record%_%%d.mp4"
 ```
 
+例子二
 ```sh
 # 将文件移动到目标目录
 for %%a in ("%record%") do set filename=%%~nxa
@@ -82,17 +86,21 @@ echo %filename%
 move %record% "C:\Users\Administrator\Downloads\olivedpro_downloads\%filename%"
 ```
 
-mac 平台：后置命令是 bash 脚本
+**Mac 平台：后置命令是 bash 脚本**
 
 * 通过 `$ffmpeg` 调用 ffmpeg
 * 通过 `$record` 获取到录制文件的绝对路径
 * 其它自定义命令
 
+下面是一些使用案例:
+
+例子一
 ```sh
 # 每 60s 切割一下视频文件
 $ffmpeg -i "$record" -c copy -f segment -segment_time 60 -reset_timestamps 1 -map 0 "$record""_%d.flv"
 ```
 
+例子二
 ```sh
 # 将文件移动到目标目录
 mv "$record" /Users/mac/Downloads/

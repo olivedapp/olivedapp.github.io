@@ -62,16 +62,21 @@ Clicking on "Snapshot" will provide detailed information about the current live 
 The post-command is essentially a script file that will be executed upon the completion of recording, to meet certain customized requirements.  
 Clicking "test run" will simulate the execution of the entered post-command.
 
-On Windows platform, post-command is used as a bat script:
+**On Windows platform, post-command is used as a bat script.**
 
 - `%ffmpeg%` is used to call ffmpeg.
 - `%record%` is used to obtain the absolute path of the recorded file.
+- Other custom commands
 
+Below are some examples:
+
+Example one
 ```sh
 # split a video file every 60 seconds
 %ffmpeg% -i "%record%" -c copy -f segment -segment_time 60 -reset_timestamps 1 -map 0 "%record%_%%d.mp4"
 ```
 
+Example two
 ```sh
 # move a video file to a target directory 
 for %%a in ("%record%") do set filename=%%~nxa
@@ -80,16 +85,21 @@ echo %filename%
 move %record% "C:\Users\Administrator\Downloads\olivedpro_downloads\%filename%"
 ```
 
-On Mac platform, post-command is used as a bash script:
+**On Mac platform, post-command is used as a bash script.**
 
 - `$ffmpeg` is used to call ffmpeg.
 - `$record` is used to obtain the absolute path of the recorded file.
+- Other custom commands
 
+Below are some examples:
+
+Example one
 ```sh
 # split a video file every 60 seconds
 $ffmpeg -i "$record" -c copy -f segment -segment_time 60 -reset_timestamps 1 -map 0 "$record""_%d.flv"
 ```
 
+Example two
 ```sh
 # move a video file to a target directory 
 mv "$record" /Users/mac/Downloads/
