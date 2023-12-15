@@ -189,9 +189,9 @@ You can login to the page https://app.lemonsqueezy.com/my-orders/ using your ema
 
 Open the streaming room page, as shown in the image below, and enter the cookie to enhance the recording quality.
 
-![image](/img/guide/zh-Hans/5.png)
-
 ![image](/img/guide/zh-Hans/6.png)
+
+![image](/img/guide/zh-Hans/7.png)
 
 ### How to report problems encountered?
 

@@ -12,6 +12,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
+## v0.11.0 - 2023-12-05
+
+- Config export and import
+
+## v0.10.5 - 2023-11-24
+
+- Youtube support streams and custom vid
+- Fix leak memory bug
+
+## v0.10.2 - 2023-11-04
+
+- Stats add snapshot
+- Linux version
+
+## v0.10.0 - 2023-10-30
+
+- Bilibili support high qn
+- Post commands feature
+
 ## v0.9.19 - 2023-09-22
 
 - New platform lang live
