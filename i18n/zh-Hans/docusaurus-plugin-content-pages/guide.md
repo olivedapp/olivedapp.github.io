@@ -200,9 +200,9 @@ mv "$record" /Users/mac/Downloads/
 
 在直播间的页面打开，如下图所示找到cookie填入即可。
 
-![image](/img/guide/zh-Hans/5.png)
-
 ![image](/img/guide/zh-Hans/6.png)
+
+![image](/img/guide/zh-Hans/7.png)
 
 ### 如何反馈遇到的问题？
 

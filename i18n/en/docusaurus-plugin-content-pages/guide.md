@@ -169,7 +169,7 @@ The list of supported live streaming platforms can be found on the "Platform" pa
 
 Under normal circumstances, you don't need to fill this. However, if your attempt to record a tiktok live broadcast fails, please follow the steps below to get the cookie and fill it into the cookie entry.
 
-! [image](/img/guide/zh-Hans/5.png)
+![image](/img/guide/en/5.png)
 
 1. Open https://www.tiktok.com/@rony3599/live in your browser as shown in the picture.
 
@@ -199,9 +199,9 @@ You can login to the page https://app.lemonsqueezy.com/my-orders/ using your ema
 
 Open the streaming room page, as shown in the image below, and enter the cookie to enhance the recording quality.
 
-![image](/img/guide/zh-Hans/6.png)
+![image](/img/guide/en/6.png)
 
-![image](/img/guide/zh-Hans/7.png)
+![image](/img/guide/en/7.png)
 
 ### How to report problems encountered?
 
