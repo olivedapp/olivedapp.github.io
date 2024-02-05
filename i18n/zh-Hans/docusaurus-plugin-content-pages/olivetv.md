@@ -66,6 +66,11 @@
 - 描述：歌唱才藝直播平台
 - URL(s): https://www.lang.live/en-US/room/4645125
 
+### naver
+
+- 描述： Naver（韩文：네이버）是由Naver公司运营的韩国在线平台。
+- URL(s): https://chzzk.naver.com/live/089185efc29a8fbe14ea294dc85f9661
+
 ### nimo tv
 
 - 描述：全球领先的游戏直播平台。
@@ -75,6 +80,12 @@
 
 - 描述：韩国个人直播平台。
 - URL(s): https://www.pandalive.co.kr/live/play/1427ec
+- Cookie：19+ 需要填写
+
+### popkontv
+
+- 描述：韩国代表性网络个人广播平台。
+- URL(s): https://www.popkontv.com/live/view?castId=dlsp0415&partnerCode=P-00117
 - Cookie：19+ 需要填写
 
 ### pixiv

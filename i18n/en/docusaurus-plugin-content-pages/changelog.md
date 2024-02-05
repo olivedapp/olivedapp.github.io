@@ -11,6 +11,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `Removed` for now removed features.
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
+## v0.12.0 - 2024-02-05
+
+- support custom task list order
+- support new site: popkontv
+
+## v0.11.11 - 2024-01-19
+
+- fix tiktok
+- support new site: chzzk.naver.com
+- optimize youtube
+
+## v0.11.9 - 2024-01-04
+
+- fix bigo live
+
+## v0.11.8 - 2024-01-03
+
+- fix cb, douyin, youtube
 
 ## v0.11.0 - 2023-12-05
 

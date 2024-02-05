@@ -66,6 +66,11 @@
 - Description: Singing Talent Live Streaming Platform
 - URL(s): https://www.lang.live/en-US/room/4645125
 
+### naver
+
+- Description: Naver (Hangul: 네이버) is a South Korean online platform operated by the Naver Corporation.
+- URL(s): https://chzzk.naver.com/live/089185efc29a8fbe14ea294dc85f9661
+
 ### nimo tv
 
 - Description: The world's leading live gaming platform.
@@ -75,6 +80,12 @@
 
 - Description: South Korean live-streaming platform for individual live streams.
 - URL(s): https://www.pandalive.co.kr/live/play/1427ec
+- Cookie：19+ required
+
+### popkontv
+
+- Description: Representative online personal broadcasting platform in South Korea.
+- URL(s): https://www.popkontv.com/live/view?castId=dlsp0415&partnerCode=P-00117
 - Cookie：19+ required
 
 ### pixiv
