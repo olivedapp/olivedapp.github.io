@@ -86,7 +86,6 @@
 
 - Description: Representative online personal broadcasting platform in South Korea.
 - URL(s): https://www.popkontv.com/live/view?castId=dlsp0415&partnerCode=P-00117
-- Cookie：19+ required
 
 ### pixiv
 

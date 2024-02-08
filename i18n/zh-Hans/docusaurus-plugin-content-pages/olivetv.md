@@ -86,7 +86,6 @@
 
 - 描述：韩国代表性网络个人广播平台。
 - URL(s): https://www.popkontv.com/live/view?castId=dlsp0415&partnerCode=P-00117
-- Cookie：19+ 需要填写
 
 ### pixiv
 
